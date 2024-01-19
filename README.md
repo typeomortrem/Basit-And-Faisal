@@ -1,7 +1,5 @@
 <Html>
-<Head>
-<Title>laqsiaf</Title>
-</Head>
+<Head><Title>laqsiaf</Title></Head>
 <body>
 <H1>
 My Favorite Things
